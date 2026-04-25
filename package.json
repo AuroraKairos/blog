@@ -1,0 +1,34 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuroraKairos/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AuroraKairos/blog/issues"
+  },
+  "homepage": "https://github.com/AuroraKairos/blog#readme",
+  "devDependencies": {
+    "hexo-cli": "^4.3.2"
+  },
+  "dependencies": {
+    "hexo-generator-feed": "^4.0.0",
+    "hexo-generator-sitemap": "^3.0.1",
+    "hexo-renderer-pug": "^3.0.0",
+    "hexo-renderer-stylus": "^3.0.1"
+  }
+}
