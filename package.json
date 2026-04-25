@@ -30,6 +30,7 @@
     "hexo-cli": "^4.3.2"
   },
   "dependencies": {
+    "hexo-deployer-git": "^4.0.0",
     "hexo-generator-feed": "^4.0.0",
     "hexo-generator-index": "^4.0.0",
     "hexo-generator-sitemap": "^3.0.1",
