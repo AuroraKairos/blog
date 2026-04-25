@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>AuroraKairos</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>http://localhost:4000/</id>
+  <link href="http://localhost:4000/" rel="alternate"/>
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, AuroraKairos</rights>
+  <subtitle>技术分享与生活记录</subtitle>
+  <title>AuroraKairos Blog</title>
+  <updated>2026-04-25T04:33:41.706Z</updated>
+  <entry>
+    <author>
+      <name>AuroraKairos</name>
+    </author>
+    <category term="默认分类" scheme="http://localhost:4000/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
+    <category term="博客" scheme="http://localhost:4000/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="欢迎" scheme="http://localhost:4000/tags/%E6%AC%A2%E8%BF%8E/"/>
+    <id>http://localhost:4000/2026/04/25/hello-world/</id>
+    <link href="http://localhost:4000/2026/04/25/hello-world/"/>
+    <published>2026-04-25T04:30:00.000Z</published>
+    <summary>
+      <![CDATA[<p>欢迎来到我的技术博客！</p>
+<p>这是一篇使用 Hexo + anzhiyu 主题搭建的博客首发文章。</p>
+<h2 id="博客功能"><a href="#博客功能" class="headerlink" title="博客功能"></a>博客功能</h2><ul>
+<li>🎨 简洁美观的 UI</li>
+<li>📱 响应式设计</li>
+<li>🔍 本地搜索</li>
+<li>📊 评论系统</li>
+<li>📝 Markdown 支持</li>
+</ul>
+<h2 id="后续计划"><a href="#后续计划" class="headerlink" title="后续计划"></a>后续计划</h2><ul>
+<li>分享技术文章</li>
+<li>记录学习笔记</li>
+<li>记录生活点滴</li>
+</ul>
+<blockquote>
+<p>感谢访问，祝您愉快！</p>
+</blockquote>]]>
+    </summary>
+    <title>Welcome to AuroraKairos Blog</title>
+    <updated>2026-04-25T04:33:41.706Z</updated>
+  </entry>
+</feed>
