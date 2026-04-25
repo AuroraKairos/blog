@@ -8,8 +8,8 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://aurorakairos.github.io/blog
-root: /blog/
+url: http://localhost:4000
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -106,10 +106,6 @@ deploy:
 # sitemap
 sitemap:
   path: sitemap.xml
-  template: ./themes/anzhiyu/sitemap.xml
-  rel: true
-  changefreq: weekly
-  priority: 1
 
 # feed
 feed:
@@ -155,7 +151,6 @@ gitalk:
   noComment: ""
   loadError: ""
   posterAvatar: ""
-  enable: false
 
 # Other
 jsonContent:

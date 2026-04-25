@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "hexo": {
+    "version": "8.1.1"
+  },
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
@@ -23,12 +26,17 @@
   },
   "homepage": "https://github.com/AuroraKairos/blog#readme",
   "devDependencies": {
+    "hexo": "^8.1.1",
     "hexo-cli": "^4.3.2"
   },
   "dependencies": {
     "hexo-generator-feed": "^4.0.0",
+    "hexo-generator-index": "^4.0.0",
     "hexo-generator-sitemap": "^3.0.1",
+    "hexo-renderer-marked": "^7.0.1",
     "hexo-renderer-pug": "^3.0.0",
-    "hexo-renderer-stylus": "^3.0.1"
+    "hexo-renderer-stylus": "^3.0.1",
+    "hexo-server": "^3.0.0",
+    "hexo-theme-anzhiyu": "^1.7.0"
   }
 }
